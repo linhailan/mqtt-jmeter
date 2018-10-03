@@ -55,7 +55,8 @@ public interface Constants {
 	public static final String SAMPLE_ON_CONDITION_OPTION1 = "specified elapsed time (ms)";
 	public static final String SAMPLE_ON_CONDITION_OPTION2 = "number of received messages";
 	
-	public static final int MAX_CLIENT_ID_LENGTH = 23;
+//	public static final int MAX_CLIENT_ID_LENGTH = 23;
+	public static final int MAX_CLIENT_ID_LENGTH = 36;
 	
 	public static final String DEFAULT_SERVER = "127.0.0.1";
 	public static final String DEFAULT_MQTT_VERSION = "3.1";
